@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Company-App1</string>
+    <string name="uname">USERNAME</string>
+    <string name="pass">PASSWORD</string>
+    <string name="button1">LOGIN</string>
+    <string name="button2">REGISTER</string>
+</resources>
